@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mkdocs_multiple',
-    version='0.0.1',
+    version='0.1',
     description='Allows to merge different mkdocs sources',
     long_description='',
     keywords='mkdocs',
